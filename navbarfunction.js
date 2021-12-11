@@ -55,7 +55,7 @@ function outDropdown(){
 }
 
 function locatonRe() {
-  location.replace("home.html");
+  location.replace("index.html");
 }
 function LoGIn(){
   location.replace("login.html");
