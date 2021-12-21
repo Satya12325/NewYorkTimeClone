@@ -1,7 +1,7 @@
 # NewYorkTimeClone
 
 <a href="https://satya12325.github.io/NewYorkTimeClone/" target="_blank"><h1>The New York Times</h1></a>
-<p>This is a project undertaken by Paarug Sethi, Satyabrata Das and Vandna Tiwari as part of the Full Stack Web Development course at Masai School.</p>
+<p>This is a project undertaken by  Satyabrata Das, Paarug Sethi and Vandna Tiwari as part of the Full Stack Web Development course at Masai School.</p>
 
 <p>The New York Times is an American daily newspaper based in New York City with a worldwide readership. Founded in 1851, the Times has since won 132 Pulitzer Prizes, and has long been regarded within the industry as a national "newspaper of record". It is ranked 18th in the world by circulation and 3rd in the U.S.
 
